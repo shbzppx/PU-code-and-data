@@ -1,0 +1,25 @@
+{
+  "total_minerals": 61,
+  "train_minerals": 61,
+  "test_minerals": 0,
+  "n_clusters": 5,
+  "train_ratio": 1.0,
+  "cv_folds": 5,
+  "random_state": 199,
+  "split_mode": "spatial_stratified",
+  "split_algorithm": "spatial_stratified",
+  "train_fold_ids": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "test_fold_ids": [],
+  "val_fold_ids": [],
+  "train_csv": ".\\outputs\\_spatial_cluster_preview_check\\spatial_train_minerals.csv",
+  "test_csv": ".\\outputs\\_spatial_cluster_preview_check\\spatial_test_minerals.csv",
+  "train_txt": ".\\outputs\\_spatial_cluster_preview_check\\spatial_train_minerals.txt",
+  "test_txt": ".\\outputs\\_spatial_cluster_preview_check\\spatial_test_minerals.txt",
+  "combined_csv": ".\\outputs\\_spatial_cluster_preview_check\\spatial_all_minerals_with_clusters.csv"
+}

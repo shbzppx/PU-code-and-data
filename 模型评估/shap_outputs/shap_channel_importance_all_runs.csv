@@ -1,0 +1,121 @@
+﻿channel,importance,model_index,model_path
+Feature 1,0.0276526276571395,1,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model1.pth
+Feature 2,0.0189078615490714,1,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model1.pth
+Feature 3,0.0179495221310447,1,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model1.pth
+Feature 4,0.0325909677796137,1,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model1.pth
+Feature 5,0.0174263546492459,1,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model1.pth
+FIS,0.0137893921695335,1,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model1.pth
+Ag,0.0118237767647974,1,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model1.pth
+As,0.0136254306909593,1,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model1.pth
+Au,0.0125429590752394,1,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model1.pth
+Cu,0.0106685775899182,1,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model1.pth
+Sb,0.0115894666099901,1,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model1.pth
+ΔT,0.0166918552579059,1,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model1.pth
+Feature 1,0.019886371528369,2,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model2.pth
+Feature 2,0.0206061228405682,2,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model2.pth
+Feature 3,0.0183885570513551,2,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model2.pth
+Feature 4,0.0221271445219016,2,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model2.pth
+Feature 5,0.0154281811709502,2,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model2.pth
+FIS,0.0141102667749267,2,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model2.pth
+Ag,0.0224308214587908,2,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model2.pth
+As,0.0124930059794241,2,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model2.pth
+Au,0.0357125849865141,2,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model2.pth
+Cu,0.0187968495607998,2,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model2.pth
+Sb,0.0091533461161065,2,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model2.pth
+ΔT,0.0188165802990014,2,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model2.pth
+Feature 1,0.0233057675829372,3,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model3.pth
+Feature 2,0.01743344594846,3,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model3.pth
+Feature 3,0.010312242975997,3,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model3.pth
+Feature 4,0.0167357087105815,3,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model3.pth
+Feature 5,0.0104999105899667,3,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model3.pth
+FIS,0.0109183902919556,3,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model3.pth
+Ag,0.0166072520436108,3,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model3.pth
+As,0.0110461979515178,3,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model3.pth
+Au,0.0140045196034778,3,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model3.pth
+Cu,0.009571098370422,3,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model3.pth
+Sb,0.0079493221925041,3,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model3.pth
+ΔT,0.0128760957498731,3,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model3.pth
+Feature 1,0.0251809171075568,4,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model4.pth
+Feature 2,0.0231019274669412,4,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model4.pth
+Feature 3,0.0228966086559096,4,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model4.pth
+Feature 4,0.0162830108500294,4,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model4.pth
+Feature 5,0.0109081038554095,4,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model4.pth
+FIS,0.0153284834474643,4,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model4.pth
+Ag,0.0109981364910992,4,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model4.pth
+As,0.0104708573479768,4,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model4.pth
+Au,0.0183410398890414,4,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model4.pth
+Cu,0.007987802716008,4,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model4.pth
+Sb,0.0128753890768588,4,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model4.pth
+ΔT,0.0153325857418672,4,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model4.pth
+Feature 1,0.0260534044158909,5,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model5.pth
+Feature 2,0.0210953602637523,5,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model5.pth
+Feature 3,0.0288586681642283,5,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model5.pth
+Feature 4,0.0156500838115949,5,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model5.pth
+Feature 5,0.0201416386176909,5,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model5.pth
+FIS,0.0436579229971563,5,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model5.pth
+Ag,0.0336000554597146,5,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model5.pth
+As,0.0228075005299855,5,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model5.pth
+Au,0.0174205612438492,5,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model5.pth
+Cu,0.0122842259509913,5,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model5.pth
+Sb,0.0109309126031091,5,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model5.pth
+ΔT,0.0163925992986778,5,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model5.pth
+Feature 1,0.0384360020119083,6,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model6.pth
+Feature 2,0.0330910575927068,6,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model6.pth
+Feature 3,0.032062380709185,6,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model6.pth
+Feature 4,0.0234893453604004,6,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model6.pth
+Feature 5,0.0152342301083005,6,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model6.pth
+FIS,0.010434344361658,6,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model6.pth
+Ag,0.0112251152359925,6,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model6.pth
+As,0.0209508996541931,6,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model6.pth
+Au,0.0213629140699299,6,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model6.pth
+Cu,0.0182705344506334,6,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model6.pth
+Sb,0.0096205102598785,6,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model6.pth
+ΔT,0.0145355655334051,6,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model6.pth
+Feature 1,0.0329716435744238,7,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model7.pth
+Feature 2,0.0227538568473885,7,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model7.pth
+Feature 3,0.0224635545045832,7,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model7.pth
+Feature 4,0.0121533616644325,7,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model7.pth
+Feature 5,0.0140170145935145,7,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model7.pth
+FIS,0.0125952139578443,7,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model7.pth
+Ag,0.0076772305041831,7,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model7.pth
+As,0.0091469393621525,7,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model7.pth
+Au,0.0100213181347896,7,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model7.pth
+Cu,0.0089924649259623,7,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model7.pth
+Sb,0.0119898718970799,7,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model7.pth
+ΔT,0.0186968291379684,7,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model7.pth
+Feature 1,0.0292285787437672,8,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model8.pth
+Feature 2,0.0362004387723925,8,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model8.pth
+Feature 3,0.0224676039353489,8,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model8.pth
+Feature 4,0.0237603894931473,8,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model8.pth
+Feature 5,0.0183721459453692,8,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model8.pth
+FIS,0.0174343216237025,8,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model8.pth
+Ag,0.0105489021941168,8,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model8.pth
+As,0.0135054674271433,8,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model8.pth
+Au,0.0769834551634585,8,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model8.pth
+Cu,0.0159667353787664,8,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model8.pth
+Sb,0.0100983005704122,8,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model8.pth
+ΔT,0.0152460689098883,8,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model8.pth
+Feature 1,0.028769415587577,9,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model9.pth
+Feature 2,0.0274392076296281,9,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model9.pth
+Feature 3,0.0273297092927137,9,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model9.pth
+Feature 4,0.0270692227617019,9,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model9.pth
+Feature 5,0.0175386076892339,9,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model9.pth
+FIS,0.0127220540997153,9,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model9.pth
+Ag,0.0084846141223206,9,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model9.pth
+As,0.0121191623518445,9,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model9.pth
+Au,0.0617055803832728,9,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model9.pth
+Cu,0.0199963234752474,9,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model9.pth
+Sb,0.0119972967524573,9,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model9.pth
+ΔT,0.019869062435485,9,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model9.pth
+Feature 1,0.0321763857632356,10,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model10.pth
+Feature 2,0.0276815790858284,10,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model10.pth
+Feature 3,0.0140049376581007,10,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model10.pth
+Feature 4,0.0333553399273678,10,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model10.pth
+Feature 5,0.0145195999199818,10,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model10.pth
+FIS,0.0134083770106848,10,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model10.pth
+Ag,0.0113253710299093,10,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model10.pth
+As,0.0157351631252262,10,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model10.pth
+Au,0.0126785190351791,10,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model10.pth
+Cu,0.0137754997778478,10,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model10.pth
+Sb,0.011902930088711,10,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model10.pth
+ΔT,0.0198097322502148,10,D:/PYTHON/王远方软件/代码/模型训练/result/论文使用/表9 不同模型预测结果评估指标/repeat_training_20260528_154053-论文使用/PU-CNN/model10.pth

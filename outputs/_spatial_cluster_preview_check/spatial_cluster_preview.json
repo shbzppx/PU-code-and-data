@@ -1,0 +1,77 @@
+{
+  "total_minerals": 61,
+  "cluster_count": 5,
+  "clusters": [
+    {
+      "cluster": 0,
+      "count": 20,
+      "split_counts": {
+        "train": 20
+      },
+      "fold_ids": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "cluster": 1,
+      "count": 15,
+      "split_counts": {
+        "train": 15
+      },
+      "fold_ids": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "cluster": 2,
+      "count": 5,
+      "split_counts": {
+        "train": 5
+      },
+      "fold_ids": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "cluster": 3,
+      "count": 18,
+      "split_counts": {
+        "train": 18
+      },
+      "fold_ids": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "cluster": 4,
+      "count": 3,
+      "split_counts": {
+        "train": 3
+      },
+      "fold_ids": [
+        0,
+        1,
+        4
+      ]
+    }
+  ],
+  "source_csv": ".\\outputs\\_spatial_cluster_preview_check\\spatial_all_minerals_with_clusters.csv",
+  "png": ".\\outputs\\_spatial_cluster_preview_check\\spatial_cluster_preview.png",
+  "json": ".\\outputs\\_spatial_cluster_preview_check\\spatial_cluster_preview.json"
+}
