@@ -1,0 +1,20 @@
+{
+  "n_points": 78057,
+  "n_unique_vectors": 34,
+  "n_geology_mapping": 38,
+  "grid": {
+    "nx": 441,
+    "ny": 177,
+    "dx": 2,
+    "dy": 2
+  },
+  "dimension": 5,
+  "encoding_seed": 42,
+  "model": "Skip-gram",
+  "window": 5,
+  "min_count": 1,
+  "iterations": 5,
+  "corpus_documents_reported": 184,
+  "corpus_tokens_reported": 1878267,
+  "corpus_list_status": "document-level bibliography to be added as 09_word2vec_corpus_list.csv"
+}
