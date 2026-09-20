@@ -1,9 +1,0 @@
-{
-  "estimator": "KM2 mixture-proportion heuristic (Ramaswamy et al., 2016)",
-  "code": "模型训练/prior_estimation.py :: estimate_prior_km2",
-  "n_bootstrap": 20,
-  "n_gamma": 8,
-  "random_state": 42,
-  "bootstrap": "spatial-cluster bootstrap on the outer-training partition only",
-  "not_used_for": "KM2 is not written into the nnPU loss for the primary run; training uses pi_tune = 0.5"
-}
